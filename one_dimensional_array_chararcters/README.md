@@ -2,11 +2,11 @@
 
 # One Dimensional Array: Array of Characters
 
-## Palindrome Checker
-
 </div>
 
 ---
+
+## Palindrome Checker
 
 ### Overview
 
