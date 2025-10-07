@@ -53,8 +53,8 @@ dsa_laboratory_exercise_1/
 
 ## 📝 Laboratory Exercise Overview
 
-> **Brief Discussion:**  
-> _[To be added]_
+**Brief Discussion:**  
+This laboratory exercise covers basic operations with one-dimensional arrays in Python. The problems include sorting numbers, finding highest and lowest values, converting decimals to binary, and checking if a word is a palindrome.
 
 ---
 
@@ -72,32 +72,32 @@ dsa_laboratory_exercise_1/
     <tr>
       <td>one_dimensional_array_chararcters</td>
       <td>palindrome_checker.py</td>
-      <td>Description to be added</td>
+      <td>Checks if a given word is a palindrome, validating input to accept letters only.</td>
     </tr>
     <tr>
       <td>one_dimensional_array_chararcters</td>
       <td>README.md</td>
-      <td>Description to be added</td>
+      <td>Detailed descriptions for each problem</td>
     </tr>
     <tr>
       <td>one_dimensional_array_numbers</td>
       <td>ascending_order.py</td>
-      <td>Description to be added</td>
+      <td>Prompts the user to enter 10 numbers and displays them in ascending order.</td>
     </tr>
     <tr>
       <td>one_dimensional_array_numbers</td>
       <td>decimal_to_binary.py</td>
-      <td>Description to be added</td>
+      <td>Converts a positive decimal number entered by the user to its binary equivalent.</td>
     </tr>
     <tr>
       <td>one_dimensional_array_numbers</td>
       <td>find_highest_lowest.py</td>
-      <td>Description to be added</td>
+      <td>Finds and displays the 1st and 2nd highest and lowest numbers from 10 user inputs, without using sorting.</td>
     </tr>
     <tr>
       <td>one_dimensional_array_numbers</td>
       <td>README.md</td>
-      <td>Description to be added</td>
+      <td>Detailed descriptions for each problem</td>
     </tr>
   </tbody>
 </table>
