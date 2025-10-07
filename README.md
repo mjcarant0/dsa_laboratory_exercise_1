@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" alt="Python Badge">
-  <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" alt="Status Badge">
+  <img src="https://img.shields.io/badge/Status-%20Done-green" alt="Status Badge">
 </p>
 
 ---
