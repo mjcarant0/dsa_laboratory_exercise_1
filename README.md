@@ -65,7 +65,7 @@ This laboratory exercise covers basic operations with one-dimensional arrays in 
     <tr>
       <th>📁 Folder</th>
       <th>🗂️ File Name</th>
-      <th>📝 Status/Description</th>
+      <th>📝 Description</th>
     </tr>
   </thead>
   <tbody>
