@@ -7,9 +7,13 @@ num = [] # list to store numbers
 for i in range(10): # loop to take 10 inputs
     while True:
         try:
-            pass
+            user_input = input(f"Enter number {i+1}: ") # take input from user
+            numbers = int(user_input)
+            num.append(numbers) # append the number to the list
+            break
         except ValueError:
-            continue
+            print("Invalid input. Please enter a valid number.")
 
-print(f"Original numbers are: {num}") # print the original list
-print(f"Numbers in ascending order are:") # print the result
+num.sort() # sort the list in ascending order
+
+print(f"Ascending Order: {num}") # print the sorted list
