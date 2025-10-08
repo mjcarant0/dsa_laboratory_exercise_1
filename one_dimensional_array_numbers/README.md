@@ -20,8 +20,8 @@ for i in range(10):
     while True:
         try:
             user_input = input(f"Enter number {i+1}: ")
-            numbers = int(user_input)
-            num.append(numbers)
+            number = int(user_input)
+            num.append(number)
             break
         except ValueError:
             print("Invalid input. Please enter a valid number.")
@@ -29,13 +29,25 @@ for i in range(10):
 - Prompts the user for 10 numbers.
 - Ensures each input is a valid integer before adding to the list.
 
-#### 2. Sorting and Output
+#### 2. Bubble Sort Implementation
 ```python
-num.sort()
+def bubble_sort(arr):
+    n = len(arr)
+    for i in range(n):
+        for j in range(0, n - i - 1):
+            if arr[j] > arr[j + 1]:
+                arr[j], arr[j + 1] = arr[j + 1], arr[j]
+
+bubble_sort(num)
+```
+- Defines a `bubble_sort` function to sort the list in ascending order.
+- Uses nested loops to repeatedly compare and swap adjacent elements if they are out of order.
+
+#### 3. Output
+```python
 print(f"Ascending Order: {num}")
 ```
-- Sorts the list in ascending order using `sort()`.
-- Prints the sorted list.
+- Prints the sorted list after applying bubble sort.
 
 ---
 
