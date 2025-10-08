@@ -27,7 +27,7 @@ It is structured for clarity, maintainability, and ease of use for both students
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/dsa_laboratory_exercise_1.git
+git clone https://github.com/mjcarant0/dsa_laboratory_exercise_1.git
 cd dsa_laboratory_exercise_1
 ```
 
